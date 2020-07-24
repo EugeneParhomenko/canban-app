@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "canban-app"
+    }
+  },
+  "defaultProject": "canban-app",
+  "cli": {
+    "analytics": false
+  }
 }
